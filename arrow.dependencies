@@ -20,5 +20,11 @@
         "repository":   "kdrag0n/proton-clang",
         "target_path":  "prebuilts/clang/host/linux-x86/clang-12.0",
         "branch":       "master"
+    },
+    {
+        "remote":       "github",
+        "repository":   "kubersharma001/android_packages_apps_GcamGOPrebuilt",
+        "target_path":  "packages/apps/GcamGOPrebuilt",
+        "branch":       "master"
     }
 ]
